@@ -7,6 +7,8 @@ import corner
 import os
 warnings.filterwarnings('ignore')
 
+#ALguma coisa
+
 mcmc_iteracoes = 5000
 mcmc_burnin = 2000
 
